@@ -1,0 +1,7 @@
+{
+  "name": "FarmPulse - Smart Farm Management",
+  "description": "A comprehensive mobile-responsive farm management system for tracking workers, expenses, loans, and real-time reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
